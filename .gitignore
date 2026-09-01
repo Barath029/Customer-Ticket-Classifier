@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.tmp
+
+# Temporary artifacts
+.gemini/
+scratch/
