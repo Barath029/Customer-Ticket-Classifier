@@ -1,0 +1,631 @@
+ticket_id,ticket_text,category,priority,sentiment,department
+TCK-00095,"Dear Support, Smooth login experience, just wanted to check if biometric login is coming soon. Looking forward to your prompt response.",Account/Login,Low,Positive,Technical Support
+TCK-00130,Urgent: Reset password link sent to my email is expired or broken. Please resolve this as soon as possible.,Account/Login,Medium,Negative,Technical Support
+TCK-02892,"Dear Support, Unable to install latest software update patch on Windows 11.",Technical Support,Medium,Negative,Technical Support
+TCK-02372,Screen has multiple dead pixels upon initial unboxing. This is very frustrating.,Product,High,Negative,Product Support
+TCK-03205,Requesting billing cycle shift from 1st of month to 15th.,Subscription,Low,Neutral,Customer Success
+TCK-04129,Credit card credentials compromised right after purchase.,Security/Fraud,Urgent,Negative,Security
+TCK-02264,Query: Product specifications on website do not match the physical item received.,Product,High,Negative,Product Support
+TCK-01901,Express shipping paid but package took 7 days to arrive.,Delivery,High,Negative,Logistics
+TCK-03139,"Hi there, Promo discount code did not apply to subscription renewal. Kindly check and revert back.",Subscription,Medium,Negative,Customer Success
+TCK-03435,Need written confirmation of account closure and data removal. Appreciate your assistance.,Cancellation,Medium,Neutral,Customer Success
+TCK-01933,"Attn Customer Care, Address updated on portal but courier tried delivering to old address.",Delivery,High,Negative,Logistics
+TCK-03164,"FYI: Loved the free trial experience, excited to be on paid subscription! Appreciate your assistance.",Subscription,Low,Positive,Customer Success
+TCK-03075,Price hike announced without 30 days prior notice to subscribers.,Subscription,Medium,Negative,Customer Success
+TCK-02913,How do I integrate your webhook with our internal CRM workflow? Kindly check and revert back.,Technical Support,Urgent,Neutral,Technical Support
+TCK-01866,Urgent: Delivery executive was polite and delivered right on time! Please resolve this as soon as possible.,Delivery,Low,Positive,Logistics
+TCK-01659,I want to modify the shipping address for order #ORD-58492.,Order,High,Neutral,Logistics
+TCK-00517,"Attn Customer Care, Unrecognized charge of $79.99 appeared on my bank statement today. Please resolve this as soon as possible.",Payment,Urgent,Negative,Billing
+TCK-01858,FYI: Courier driver left package in heavy rain and box is completely soaked. Kindly check and revert back.,Delivery,High,Negative,Logistics
+TCK-02646,"Attn Customer Care, How do I integrate your webhook with our internal CRM workflow?",Technical Support,Low,Negative,Technical Support
+TCK-02244,Query: Are there replacement parts available for model #ORD-39576?,Product,Low,Neutral,Product Support
+TCK-01278,My order was canceled automatically without any explanation. Thanks for your help.,Order,Urgent,Negative,Logistics
+TCK-02337,Issue report: Buttons on the controller are non-responsive straight out of the box. Appreciate your assistance.,Product,High,Negative,Product Support
+TCK-00951,Still waiting on refund reference number for tracking purpose. This is very frustrating.,Refund,Medium,Neutral,Billing
+TCK-01121,Please help: Refund status says processed but bank confirms no credit received yet.,Refund,High,Negative,Billing
+TCK-02598,"Tech support team resolved my software issue in 10 minutes flat, amazing service! Kindly check and revert back.",Technical Support,Low,Positive,Technical Support
+TCK-02205,"Hi there, Screen has multiple dead pixels upon initial unboxing. Looking forward to your prompt response.",Product,High,Negative,Product Support
+TCK-00420,"Attn Customer Care, Session keeps timing out every 2 minutes while working on dashboard. Kindly check and revert back.",Account/Login,High,Negative,Technical Support
+TCK-00923,Urgent: Refund status says processed but bank confirms no credit received yet. Appreciate your assistance.,Refund,High,Negative,Billing
+TCK-03152,What features are included in the Pro tier plan? Looking forward to your prompt response.,Subscription,Low,Neutral,Customer Success
+TCK-00478,"Your payment gateway is extremely smooth and fast, great job!",Payment,Low,Positive,Billing
+TCK-02036,"Urgent: Outstanding delivery service, package arrived in pristine condition! This is very frustrating.",Delivery,Low,Positive,Logistics
+TCK-03122,Price hike announced without 30 days prior notice to subscribers.,Subscription,Medium,Negative,Customer Success
+TCK-01693,Package arrived damaged with broken outer box and missing contents. Kindly check and revert back.,Delivery,Urgent,Negative,Logistics
+TCK-03170,Query: My monthly subscription renewed automatically but I didn't receive account credits. Kindly check and revert back.,Subscription,High,Negative,Customer Success
+TCK-01472,Urgent: Can I add one more item to my active order before it ships? Please advise on next steps.,Order,Low,Neutral,Logistics
+TCK-02602,"Hi there, Getting database connection error during report export.",Technical Support,Urgent,Negative,Technical Support
+TCK-01203,Still waiting on refund reference number for tracking purpose.,Refund,Medium,Neutral,Billing
+TCK-02439,"Attn Customer Care, Are there replacement parts available for model #ORD-49437?",Product,Low,Neutral,Product Support
+TCK-02627,Video playback player stutters and buffers continuously on HD quality. Kindly check and revert back.,Technical Support,Medium,Negative,Technical Support
+TCK-01670,Order summary shows incorrect quantities for item list.,Order,Medium,Negative,Logistics
+TCK-03990,Query: Fake store website impersonating your brand to scam customers. Appreciate your assistance.,Security/Fraud,High,Negative,Security
+TCK-01971,Can I schedule weekend delivery for my upcoming package? Please resolve this as soon as possible.,Delivery,Low,Neutral,Logistics
+TCK-02152,Please help: Is this product compatible with MacOS Monterey? Looking forward to your prompt response.,Product,Low,Neutral,Product Support
+TCK-00821,Unrecognized charge of $79.99 appeared on my bank statement today. Appreciate your assistance.,Payment,Urgent,Negative,Billing
+TCK-01998,Please help: When is the expected delivery date for shipment tracking #ORD-39348? Please resolve this as soon as possible.,Delivery,Low,Neutral,Logistics
+TCK-04107,How do I enable hardware key two-factor security authentication?,Security/Fraud,Low,Neutral,Security
+TCK-01249,Extremely disappointed with delay in processing my partial refund request. Thanks for your help.,Refund,High,Negative,Billing
+TCK-03594,"Attn Customer Care, Can I cancel my order within 1 hour of placing it online?",Cancellation,Low,Neutral,Customer Success
+TCK-02713,"Dear Support, Memory leak causing browser tab to freeze after 30 minutes of use. System ref ID #9921.",Technical Support,High,Negative,Technical Support
+TCK-03829,Please help: Fake store website impersonating your brand to scam customers. Please advise on next steps.,Security/Fraud,High,Negative,Security
+TCK-02191,Device overheating excessively while operating on standard settings.,Product,Urgent,Negative,Product Support
+TCK-03763,Please confirm cancellation of order #ORD-21605 before dispatch. Thanks for your help.,Cancellation,High,Neutral,Customer Success
+TCK-01047,Issue report: Why was my refund request rejected when product was returned unopened?,Refund,Urgent,Negative,Billing
+TCK-01889,"Issue report: Outstanding delivery service, package arrived in pristine condition! System ref ID #9921.",Delivery,Low,Positive,Logistics
+TCK-02470,Please help: Device overheating excessively while operating on standard settings. System ref ID #9921.,Product,Urgent,Negative,Product Support
+TCK-02848,"Dear Support, SSL certificate error throwing warning on browser load. Kindly check and revert back.",Technical Support,High,Negative,Technical Support
+TCK-00616,Unrecognized charge of $79.99 appeared on my bank statement today.,Payment,Urgent,Negative,Billing
+TCK-01319,Can I add one more item to my active order before it ships?,Order,Low,Neutral,Logistics
+TCK-01864,Courier driver left package in heavy rain and box is completely soaked. This is very frustrating.,Delivery,High,Negative,Logistics
+TCK-02344,Buttons on the controller are non-responsive straight out of the box. Please resolve this as soon as possible.,Product,High,Negative,Product Support
+TCK-02450,The product stopped working after 2 days of minimal usage.,Product,High,Negative,Product Support
+TCK-02137,Received product with missing user manual and power adapter cable.,Product,Medium,Negative,Product Support
+TCK-03526,"Query: Cancellation was processed swiftly without pushy retention calls, thank you.",Cancellation,Low,Positive,Customer Success
+TCK-01773,Query: Can I schedule weekend delivery for my upcoming package? Thanks for your help.,Delivery,Low,Neutral,Logistics
+TCK-04165,Received a phishing email claiming to be from your security department.,Security/Fraud,Low,Negative,Security
+TCK-00132,Reset password link sent to my email is expired or broken.,Account/Login,Medium,Negative,Technical Support
+TCK-03086,Charged annual fee instead of monthly plan selected during checkout. Thanks for your help.,Subscription,High,Negative,Customer Success
+TCK-00078,"Hi there, Reset password link sent to my email is expired or broken.",Account/Login,Medium,Negative,Technical Support
+TCK-02899,Video playback player stutters and buffers continuously on HD quality. This is very frustrating.,Technical Support,Medium,Negative,Technical Support
+TCK-02053,Issue report: Express shipping paid but package took 7 days to arrive. Looking forward to your prompt response.,Delivery,High,Negative,Logistics
+TCK-00725,Invoice #ORD-94907 shows incorrect tax billing details. Please advise on next steps.,Payment,Medium,Negative,Billing
+TCK-01315,FYI: Order summary shows incorrect quantities for item list. This is very frustrating.,Order,Medium,Negative,Logistics
+TCK-03277,"Attn Customer Care, What features are included in the Pro tier plan? Looking forward to your prompt response.",Subscription,High,Neutral,Customer Success
+TCK-01852,"Hello support team, Courier driver left package in heavy rain and box is completely soaked.",Delivery,High,Negative,Logistics
+TCK-02318,"Hello support team, Product specifications on website do not match the physical item received.",Product,High,Negative,Product Support
+TCK-03288,"Hello support team, What features are included in the Pro tier plan?",Subscription,Low,Neutral,Customer Success
+TCK-03565,Cancellation button on dashboard is hidden or broken.,Cancellation,High,Negative,Customer Success
+TCK-01373,Order placement was effortless and checkout process was intuitive.,Order,Low,Positive,Logistics
+TCK-01856,Can I schedule weekend delivery for my upcoming package? Appreciate your assistance.,Delivery,Low,Neutral,Logistics
+TCK-02966,"Loved the free trial experience, excited to be on paid subscription! This is very frustrating.",Subscription,Low,Positive,Customer Success
+TCK-01320,"Wrong color ordered by mistake, how can I modify item specifications? Thanks for your help.",Order,Medium,Neutral,Logistics
+TCK-02561,"Attn Customer Care, Feature request: support dark mode toggle on web portal. Looking forward to your prompt response.",Technical Support,Urgent,Neutral,Technical Support
+TCK-04111,Notification received for password change that I did not initiate.,Security/Fraud,Urgent,Negative,Security
+TCK-03513,I want to cancel my active subscription immediately and avoid future charges. Appreciate your assistance.,Cancellation,High,Neutral,Customer Success
+TCK-03934,"My password was leaked in a public data breach, need immediate account lock. Kindly check and revert back.",Security/Fraud,Urgent,Negative,Security
+TCK-00376,Query: Reset password link sent to my email is expired or broken. Please advise on next steps.,Account/Login,Medium,Negative,Technical Support
+TCK-01909,Shipment delayed due to transit exception without revised ETA.,Delivery,Medium,Negative,Logistics
+TCK-00334,"Attn Customer Care, How can I change my registered email address on the account settings page?",Account/Login,Low,Neutral,Technical Support
+TCK-03229,"Attn Customer Care, Accidentally subscribed twice under two different email addresses. Looking forward to your prompt response.",Subscription,Medium,Negative,Customer Success
+TCK-03298,My monthly subscription renewed automatically but I didn't receive account credits.,Subscription,High,Negative,Customer Success
+TCK-02366,Are there replacement parts available for model #ORD-16116?,Product,Low,Neutral,Product Support
+TCK-01605,FYI: Order status has been stuck on 'Processing' for over 5 days.,Order,High,Negative,Logistics
+TCK-01119,Wrong item delivered and refund process is taking way too long. Please advise on next steps.,Refund,High,Negative,Billing
+TCK-04072,Unrecognized API key created under my developer profile credentials. Appreciate your assistance.,Security/Fraud,Urgent,Negative,Security
+TCK-01944,"Hi there, Package #ORD-11398 shows delivered but I have not received it.",Delivery,Urgent,Negative,Logistics
+TCK-02959,Accidentally subscribed twice under two different email addresses. Please resolve this as soon as possible.,Subscription,Medium,Neutral,Customer Success
+TCK-03240,Accidentally subscribed twice under two different email addresses. Kindly check and revert back.,Subscription,Medium,Negative,Customer Success
+TCK-04160,"Security response team acted instantly to secure my compromised account, heroic work! Please resolve this as soon as possible.",Security/Fraud,Low,Positive,Security
+TCK-03255,"Attn Customer Care, Want to pause my recurring subscription for 2 months while traveling. Please resolve this as soon as possible.",Subscription,Low,Neutral,Customer Success
+TCK-02377,Urgent: The product performance exceeded my expectations! Super satisfied.,Product,Low,Positive,Product Support
+TCK-03624,"Cancellation was processed swiftly without pushy retention calls, thank you. Please resolve this as soon as possible.",Cancellation,Low,Positive,Customer Success
+TCK-01343,"Please help: Order arrived earlier than expected in excellent packaging, thank you! Appreciate your assistance.",Order,Low,Positive,Logistics
+TCK-00321,Thank you for helping me recover my login credentials yesterday! Looking forward to your prompt response.,Account/Login,Low,Positive,Technical Support
+TCK-01620,"Attn Customer Care, Wrong color ordered by mistake, how can I modify item specifications? System ref ID #9921.",Order,Medium,Neutral,Logistics
+TCK-03502,"Attn Customer Care, What is your cancellation policy for annual membership contracts? Kindly check and revert back.",Cancellation,Low,Neutral,Customer Success
+TCK-02061,"Hello support team, Wrong shipping tracking link provided in notification email.",Delivery,Low,Neutral,Logistics
+TCK-02946,"Hi there, What features are included in the Pro tier plan? Kindly check and revert back.",Subscription,Urgent,Neutral,Customer Success
+TCK-02220,The product performance exceeded my expectations! Super satisfied.,Product,Low,Positive,Product Support
+TCK-01674,"Hello support team, Wrong color ordered by mistake, how can I modify item specifications? Please resolve this as soon as possible.",Order,Medium,Neutral,Logistics
+TCK-01943,Delivery executive was polite and delivered right on time! Please advise on next steps.,Delivery,Low,Positive,Logistics
+TCK-00261,Cannot verify my phone number during account signup.,Account/Login,Low,Negative,Technical Support
+TCK-03369,"Cancellation was processed swiftly without pushy retention calls, thank you. Thanks for your help.",Cancellation,Low,Neutral,Customer Success
+TCK-02040,"Hello support team, When is the expected delivery date for shipment tracking #ORD-81219? Thanks for your help.",Delivery,Low,Neutral,Logistics
+TCK-00690,Invoice #ORD-18180 shows incorrect tax billing details.,Payment,Medium,Negative,Billing
+TCK-00902,Requesting a full refund for damaged product delivered yesterday.,Refund,High,Negative,Billing
+TCK-02307,"FYI: Fantastic build quality and sleek design, highly recommend this product! Please advise on next steps.",Product,Low,Positive,Product Support
+TCK-02027,Shipment delayed due to transit exception without revised ETA.,Delivery,Medium,Negative,Logistics
+TCK-02893,"Hi there, How do I integrate your webhook with our internal CRM workflow?",Technical Support,Low,Neutral,Technical Support
+TCK-00139,Thank you for helping me recover my login credentials yesterday!,Account/Login,Low,Positive,Technical Support
+TCK-01918,Can I schedule weekend delivery for my upcoming package?,Delivery,Low,Neutral,Logistics
+TCK-01829,"Hi there, Courier driver left package in heavy rain and box is completely soaked. Please advise on next steps.",Delivery,High,Negative,Logistics
+TCK-01574,Query: My order was canceled automatically without any explanation.,Order,Urgent,Negative,Logistics
+TCK-00320,"Attn Customer Care, Keep getting invalid credentials error even though my password is correct. Kindly check and revert back.",Account/Login,Medium,Positive,Technical Support
+TCK-00654,"Dear Support, What payment methods do you accept for international orders?",Payment,Low,Neutral,Billing
+TCK-02138,"Dear Support, How do I activate the 1-year manufacturer warranty for this item?",Product,Low,Neutral,Product Support
+TCK-03320,Accidentally subscribed twice under two different email addresses.,Subscription,Medium,Negative,Customer Success
+TCK-00559,"Your payment gateway is extremely smooth and fast, great job! System ref ID #9921.",Payment,Low,Positive,Billing
+TCK-02188,Please help: Are there replacement parts available for model #ORD-66572? System ref ID #9921.,Product,Low,Neutral,Product Support
+TCK-00113,"Dear Support, I forgot my password and cannot access my account despite multiple reset attempts.",Account/Login,Medium,Negative,Technical Support
+TCK-00532,"Hello support team, Unrecognized charge of $79.99 appeared on my bank statement today. Kindly check and revert back.",Payment,Urgent,Negative,Billing
+TCK-00225,Urgent: How can I change my registered email address on the account settings page?,Account/Login,Low,Neutral,Technical Support
+TCK-00724,"Hello support team, Your payment gateway is extremely smooth and fast, great job!",Payment,Low,Positive,Billing
+TCK-03476,Tried canceling via chat but bot kept looping without completing request.,Cancellation,Medium,Positive,Customer Success
+TCK-02884,Desktop app fails to sync offline data when reconnected to internet. Appreciate your assistance.,Technical Support,High,Negative,Technical Support
+TCK-03700,Cancellation button on dashboard is hidden or broken. System ref ID #9921.,Cancellation,High,Negative,Customer Success
+TCK-01434,"Order arrived earlier than expected in excellent packaging, thank you!",Order,Low,Positive,Logistics
+TCK-02374,Query: The product stopped working after 2 days of minimal usage.,Product,High,Negative,Product Support
+TCK-03334,"Please help: Loved the free trial experience, excited to be on paid subscription! Please resolve this as soon as possible.",Subscription,Low,Positive,Customer Success
+TCK-03871,Someone accessed my account from an unknown IP address in another country. Kindly check and revert back.,Security/Fraud,Urgent,Negative,Security
+TCK-01459,Order placement was effortless and checkout process was intuitive. Please resolve this as soon as possible.,Order,Low,Positive,Logistics
+TCK-03887,"Hello support team, How do I enable hardware key two-factor security authentication?",Security/Fraud,Low,Neutral,Security
+TCK-02763,"Hi there, Video playback player stutters and buffers continuously on HD quality.",Technical Support,Medium,Negative,Technical Support
+TCK-00847,"Hello support team, Received my store credit refund promptly, appreciate the swift assistance! This is very frustrating.",Refund,Low,Positive,Billing
+TCK-00194,"Attn Customer Care, Reset password link sent to my email is expired or broken.",Account/Login,Medium,Negative,Technical Support
+TCK-01465,Can I add one more item to my active order before it ships?,Order,Low,Neutral,Logistics
+TCK-02622,"Hi there, Desktop app fails to sync offline data when reconnected to internet.",Technical Support,High,Negative,Technical Support
+TCK-00947,Issue report: How long does it take for a refund to reflect in my bank account?,Refund,Low,Neutral,Billing
+TCK-02022,"Hello support team, Delivery driver missed scheduled slot and marked recipient unavailable. Thanks for your help.",Delivery,Medium,Negative,Logistics
+TCK-02552,Urgent: Mobile application crashes every time I tap on the settings menu.,Technical Support,High,Positive,Technical Support
+TCK-01630,FYI: Order status has been stuck on 'Processing' for over 5 days. Please resolve this as soon as possible.,Order,High,Negative,Logistics
+TCK-02929,Please help: Super clear documentation made technical integration seamless!,Technical Support,Low,Positive,Technical Support
+TCK-00118,"Dear Support, Smooth login experience, just wanted to check if biometric login is coming soon.",Account/Login,Low,Negative,Technical Support
+TCK-00646,What payment methods do you accept for international orders? This is very frustrating.,Payment,Low,Neutral,Billing
+TCK-01871,Delivery driver missed scheduled slot and marked recipient unavailable.,Delivery,Medium,Negative,Logistics
+TCK-00004,Cannot verify my phone number during account signup.,Account/Login,Medium,Negative,Technical Support
+TCK-00075,"FYI: Smooth login experience, just wanted to check if biometric login is coming soon. This is very frustrating.",Account/Login,Low,Positive,Technical Support
+TCK-01756,"Hi there, Delivery executive was polite and delivered right on time!",Delivery,Low,Positive,Logistics
+TCK-00468,Urgent: Card authorized but payment status still shows pending after 24 hours. Looking forward to your prompt response.,Payment,High,Negative,Billing
+TCK-00006,Issue report: Can I add multiple user profiles under a single master account? Appreciate your assistance.,Account/Login,Low,Positive,Technical Support
+TCK-01247,"Returned defective gadget, please initiate immediate refund to original payment source. Please advise on next steps.",Refund,High,Negative,Billing
+TCK-00920,Refund status says processed but bank confirms no credit received yet. Please advise on next steps.,Refund,High,Negative,Billing
+TCK-02596,Urgent: Getting database connection error during report export. Please advise on next steps.,Technical Support,Urgent,Negative,Technical Support
+TCK-00229,"Attn Customer Care, Session keeps timing out every 2 minutes while working on dashboard.",Account/Login,Low,Negative,Technical Support
+TCK-01064,FYI: Extremely disappointed with delay in processing my partial refund request. Please resolve this as soon as possible.,Refund,High,Negative,Billing
+TCK-02591,"Hello support team, How do I integrate your webhook with our internal CRM workflow? Thanks for your help.",Technical Support,Low,Neutral,Technical Support
+TCK-00243,I forgot my password and cannot access my account despite multiple reset attempts. Appreciate your assistance.,Account/Login,Medium,Negative,Technical Support
+TCK-02947,"Hello support team, Promo discount code did not apply to subscription renewal. Please resolve this as soon as possible.",Subscription,Medium,Negative,Customer Success
+TCK-03264,Promo discount code did not apply to subscription renewal.,Subscription,Medium,Negative,Customer Success
+TCK-01161,"FYI: Received my store credit refund promptly, appreciate the swift assistance! Please advise on next steps.",Refund,Low,Positive,Billing
+TCK-03339,Requesting billing cycle shift from 1st of month to 15th. Looking forward to your prompt response.,Subscription,Low,Negative,Customer Success
+TCK-03616,Urgent: Need written confirmation of account closure and data removal. System ref ID #9921.,Cancellation,Medium,Positive,Customer Success
+TCK-03200,Urgent: Subscription upgrade was instant and tier features are worth every penny! Please advise on next steps.,Subscription,Low,Positive,Customer Success
+TCK-02891,"Attn Customer Care, Getting database connection error during report export.",Technical Support,Urgent,Negative,Technical Support
+TCK-02564,"Dear Support, Getting database connection error during report export. Looking forward to your prompt response.",Technical Support,Urgent,Negative,Technical Support
+TCK-02672,Desktop app fails to sync offline data when reconnected to internet.,Technical Support,High,Negative,Technical Support
+TCK-01527,"Attn Customer Care, Can I add one more item to my active order before it ships? Kindly check and revert back.",Order,Low,Neutral,Logistics
+TCK-01606,Order placement was effortless and checkout process was intuitive. Please resolve this as soon as possible.,Order,Low,Positive,Logistics
+TCK-04005,Appreciate your robust encryption and proactive fraud alerts!,Security/Fraud,Urgent,Positive,Security
+TCK-02325,"Attn Customer Care, Are there replacement parts available for model #ORD-27282?",Product,Low,Neutral,Product Support
+TCK-02710,Please help: How do I integrate your webhook with our internal CRM workflow?,Technical Support,Low,Neutral,Technical Support
+TCK-03417,"Dear Support, Cancellation was processed swiftly without pushy retention calls, thank you. System ref ID #9921.",Cancellation,Low,Positive,Customer Success
+TCK-03661,"Hello support team, Confirming that my subscription will auto-terminate at end of current cycle.",Cancellation,Low,Neutral,Customer Success
+TCK-01990,"Hi there, Package arrived damaged with broken outer box and missing contents. This is very frustrating.",Delivery,Urgent,Negative,Logistics
+TCK-03364,Urgent: Extremely difficult cancellation workflow designed to trap customers. System ref ID #9921.,Cancellation,High,Negative,Customer Success
+TCK-02363,Urgent: The product stopped working after 2 days of minimal usage. Appreciate your assistance.,Product,High,Negative,Product Support
+TCK-01976,Address updated on portal but courier tried delivering to old address. Please resolve this as soon as possible.,Delivery,High,Negative,Logistics
+TCK-01762,Package #ORD-64698 shows delivered but I have not received it.,Delivery,Urgent,Negative,Logistics
+TCK-01306,"Hello support team, Received confirmation email but order doesn't show up in my purchase history.",Order,Medium,Negative,Logistics
+TCK-02740,Super clear documentation made technical integration seamless! Looking forward to your prompt response.,Technical Support,Medium,Positive,Technical Support
+TCK-01542,"Hi there, Where can I track my order #ORD-18019? Tracking number isn't updating. This is very frustrating.",Order,Medium,Neutral,Logistics
+TCK-04051,"Hi there, Notification received for password change that I did not initiate.",Security/Fraud,Urgent,Negative,Security
+TCK-02473,Issue report: Product specifications on website do not match the physical item received. Kindly check and revert back.,Product,High,Negative,Product Support
+TCK-02643,API connection returning 504 Gateway Timeout on bulk endpoint. Please resolve this as soon as possible.,Technical Support,Urgent,Negative,Technical Support
+TCK-02796,"Query: Tech support team resolved my software issue in 10 minutes flat, amazing service! System ref ID #9921.",Technical Support,Low,Positive,Technical Support
+TCK-00623,Unrecognized charge of $79.99 appeared on my bank statement today. This is very frustrating.,Payment,Urgent,Negative,Billing
+TCK-03311,Query: My monthly subscription renewed automatically but I didn't receive account credits.,Subscription,High,Negative,Customer Success
+TCK-01494,Need an official tax invoice generated for order #ORD-94984. Looking forward to your prompt response.,Order,Low,Neutral,Logistics
+TCK-00111,Keep getting invalid credentials error even though my password is correct.,Account/Login,Medium,Negative,Technical Support
+TCK-02276,Device overheating excessively while operating on standard settings. This is very frustrating.,Product,Urgent,Negative,Product Support
+TCK-03847,Notification received for password change that I did not initiate.,Security/Fraud,Urgent,Negative,Security
+TCK-01170,Query: I returned item #ORD-89190 two weeks ago and still haven't received my refund.,Refund,High,Negative,Billing
+TCK-03527,Query: Extremely difficult cancellation workflow designed to trap customers.,Cancellation,High,Negative,Customer Success
+TCK-00233,"Hi there, Session keeps timing out every 2 minutes while working on dashboard. This is very frustrating.",Account/Login,High,Negative,Technical Support
+TCK-00067,My account was disabled suddenly without any notification. Please advise on next steps.,Account/Login,Urgent,Negative,Technical Support
+TCK-03894,Fake store website impersonating your brand to scam customers. Kindly check and revert back.,Security/Fraud,High,Negative,Security
+TCK-02073,Shipment delayed due to transit exception without revised ETA. Kindly check and revert back.,Delivery,Medium,Negative,Logistics
+TCK-02193,Please help: Are there replacement parts available for model #ORD-89057? Please resolve this as soon as possible.,Product,Low,Neutral,Product Support
+TCK-00537,"Your payment gateway is extremely smooth and fast, great job! Looking forward to your prompt response.",Payment,Low,Positive,Billing
+TCK-02860,SSL certificate error throwing warning on browser load.,Technical Support,High,Negative,Technical Support
+TCK-00126,Session keeps timing out every 2 minutes while working on dashboard.,Account/Login,High,Negative,Technical Support
+TCK-02134,"Hi there, The product stopped working after 2 days of minimal usage. Please advise on next steps.",Product,Low,Positive,Product Support
+TCK-01255,How long does it take for a refund to reflect in my bank account? Kindly check and revert back.,Refund,Low,Neutral,Billing
+TCK-03563,FYI: What is your cancellation policy for annual membership contracts? Please advise on next steps.,Cancellation,Low,Neutral,Customer Success
+TCK-01977,Address updated on portal but courier tried delivering to old address.,Delivery,High,Negative,Logistics
+TCK-03528,Urgent: Confirming that my subscription will auto-terminate at end of current cycle.,Cancellation,Low,Neutral,Customer Success
+TCK-03327,"Urgent: Loved the free trial experience, excited to be on paid subscription! Looking forward to your prompt response.",Subscription,Low,Positive,Customer Success
+TCK-02076,Package #ORD-28460 shows delivered but I have not received it. Appreciate your assistance.,Delivery,Urgent,Negative,Logistics
+TCK-00485,Query: My credit card transaction was declined repeatedly without clear reason.,Payment,High,Negative,Billing
+TCK-01655,Issue report: Received confirmation email but order doesn't show up in my purchase history. System ref ID #9921.,Order,Medium,Negative,Logistics
+TCK-03851,Please help: Received a phishing email claiming to be from your security department. Please resolve this as soon as possible.,Security/Fraud,High,Negative,Security
+TCK-03087,FYI: How do I upgrade from Basic to Enterprise tier subscription? This is very frustrating.,Subscription,Low,Neutral,Customer Success
+TCK-03245,Price hike announced without 30 days prior notice to subscribers.,Subscription,Medium,Negative,Customer Success
+TCK-03580,Can I cancel my order within 1 hour of placing it online?,Cancellation,Low,Negative,Customer Success
+TCK-03280,My monthly subscription renewed automatically but I didn't receive account credits. Thanks for your help.,Subscription,High,Negative,Customer Success
+TCK-03877,"FYI: Security response team acted instantly to secure my compromised account, heroic work! This is very frustrating.",Security/Fraud,Low,Positive,Security
+TCK-01775,"Dear Support, Package #ORD-15378 shows delivered but I have not received it.",Delivery,Urgent,Negative,Logistics
+TCK-02411,Urgent: Item build quality is cheap and plastic handle broke immediately.,Product,High,Negative,Product Support
+TCK-03875,Issue report: Notification received for password change that I did not initiate. This is very frustrating.,Security/Fraud,Urgent,Negative,Security
+TCK-00919,"Received my store credit refund promptly, appreciate the swift assistance! Please advise on next steps.",Refund,Low,Positive,Billing
+TCK-01647,FYI: Need an official tax invoice generated for order #ORD-24240.,Order,Low,Neutral,Logistics
+TCK-01027,Wrong item delivered and refund process is taking way too long.,Refund,High,Negative,Billing
+TCK-01031,"Received my store credit refund promptly, appreciate the swift assistance!",Refund,Low,Positive,Billing
+TCK-00883,"Please help: Returned defective gadget, please initiate immediate refund to original payment source. Looking forward to your prompt response.",Refund,High,Negative,Billing
+TCK-01336,Where can I track my order #ORD-67659? Tracking number isn't updating.,Order,Medium,Neutral,Logistics
+TCK-02747,Feature request: support dark mode toggle on web portal. Kindly check and revert back.,Technical Support,Low,Neutral,Technical Support
+TCK-03182,"Attn Customer Care, Price hike announced without 30 days prior notice to subscribers. Kindly check and revert back.",Subscription,Medium,Negative,Customer Success
+TCK-02714,Mobile application crashes every time I tap on the settings menu. Appreciate your assistance.,Technical Support,High,Negative,Technical Support
+TCK-00365,Thank you for helping me recover my login credentials yesterday!,Account/Login,Low,Positive,Technical Support
+TCK-02126,"Dear Support, How do I activate the 1-year manufacturer warranty for this item?",Product,Low,Neutral,Product Support
+TCK-00028,Keep getting invalid credentials error even though my password is correct.,Account/Login,Urgent,Negative,Technical Support
+TCK-00474,I was charged twice for order #ORD-59921 on my credit card statement. Thanks for your help.,Payment,High,Negative,Billing
+TCK-00526,Card authorized but payment status still shows pending after 24 hours.,Payment,High,Negative,Billing
+TCK-00726,FYI: Payment failed during checkout but the money was deducted from my bank account.,Payment,Urgent,Negative,Billing
+TCK-00056,Locked out of my profile after updating two-factor authentication. System ref ID #9921.,Account/Login,High,Negative,Technical Support
+TCK-00639,Card authorized but payment status still shows pending after 24 hours.,Payment,High,Negative,Billing
+TCK-00303,"Hi there, Keep getting invalid credentials error even though my password is correct.",Account/Login,Medium,Negative,Technical Support
+TCK-02767,Getting database connection error during report export.,Technical Support,Urgent,Negative,Technical Support
+TCK-03755,"Hello support team, Need written confirmation of account closure and data removal.",Cancellation,Medium,Neutral,Customer Success
+TCK-01277,"Dear Support, Wrong color ordered by mistake, how can I modify item specifications?",Order,Medium,Neutral,Logistics
+TCK-03791,"Security response team acted instantly to secure my compromised account, heroic work! This is very frustrating.",Security/Fraud,Low,Positive,Security
+TCK-00625,I was charged twice for order #ORD-92023 on my credit card statement.,Payment,High,Negative,Billing
+TCK-02056,"Attn Customer Care, Courier driver left package in heavy rain and box is completely soaked.",Delivery,High,Negative,Logistics
+TCK-01281,FYI: My order was canceled automatically without any explanation. Please advise on next steps.,Order,Urgent,Negative,Logistics
+TCK-02852,Please help: Feature request: support dark mode toggle on web portal. Please advise on next steps.,Technical Support,Low,Neutral,Technical Support
+TCK-01050,Wrong item delivered and refund process is taking way too long.,Refund,High,Negative,Billing
+TCK-00337,Session keeps timing out every 2 minutes while working on dashboard. Please resolve this as soon as possible.,Account/Login,High,Negative,Technical Support
+TCK-00048,"Smooth login experience, just wanted to check if biometric login is coming soon.",Account/Login,Low,Positive,Technical Support
+TCK-02879,SSL certificate error throwing warning on browser load. Thanks for your help.,Technical Support,High,Negative,Technical Support
+TCK-00107,"Attn Customer Care, I forgot my password and cannot access my account despite multiple reset attempts.",Account/Login,Medium,Negative,Technical Support
+TCK-02398,"Fantastic build quality and sleek design, highly recommend this product!",Product,Low,Positive,Product Support
+TCK-01080,Urgent: Still waiting on refund reference number for tracking purpose. Please advise on next steps.,Refund,Medium,Neutral,Billing
+TCK-02287,"Fantastic build quality and sleek design, highly recommend this product! Please resolve this as soon as possible.",Product,Low,Positive,Product Support
+TCK-02262,Is this product compatible with MacOS Monterey? This is very frustrating.,Product,Low,Neutral,Product Support
+TCK-01145,"Returned defective gadget, please initiate immediate refund to original payment source.",Refund,High,Negative,Billing
+TCK-03423,Issue report: Extremely difficult cancellation workflow designed to trap customers.,Cancellation,High,Negative,Customer Success
+TCK-02297,"Hi there, Buttons on the controller are non-responsive straight out of the box. System ref ID #9921.",Product,High,Negative,Product Support
+TCK-02842,Getting database connection error during report export.,Technical Support,High,Negative,Technical Support
+TCK-03145,"Hi there, Subscription upgrade was instant and tier features are worth every penny!",Subscription,Low,Positive,Customer Success
+TCK-01837,FYI: Address updated on portal but courier tried delivering to old address. Please advise on next steps.,Delivery,High,Negative,Logistics
+TCK-01754,Courier driver left package in heavy rain and box is completely soaked.,Delivery,High,Negative,Logistics
+TCK-01102,Please help: Extremely disappointed with delay in processing my partial refund request. Thanks for your help.,Refund,High,Negative,Billing
+TCK-01969,Query: Can I schedule weekend delivery for my upcoming package? This is very frustrating.,Delivery,Low,Neutral,Logistics
+TCK-03251,Urgent: How do I upgrade from Basic to Enterprise tier subscription?,Subscription,Low,Neutral,Customer Success
+TCK-03118,Subscription status changed to inactive despite successful payment receipt.,Subscription,High,Negative,Customer Success
+TCK-03945,"Issue report: Security response team acted instantly to secure my compromised account, heroic work!",Security/Fraud,Low,Positive,Security
+TCK-00524,What payment methods do you accept for international orders?,Payment,Low,Neutral,Billing
+TCK-02281,Issue report: Buttons on the controller are non-responsive straight out of the box. This is very frustrating.,Product,High,Negative,Product Support
+TCK-02693,Issue report: Super clear documentation made technical integration seamless!,Technical Support,Low,Positive,Technical Support
+TCK-02886,"Dear Support, Tech support team resolved my software issue in 10 minutes flat, amazing service! Please advise on next steps.",Technical Support,Urgent,Positive,Technical Support
+TCK-01429,I want to modify the shipping address for order #ORD-74210.,Order,High,Neutral,Logistics
+TCK-02582,Issue report: How do I integrate your webhook with our internal CRM workflow? Please advise on next steps.,Technical Support,Low,Neutral,Technical Support
+TCK-03754,Extremely difficult cancellation workflow designed to trap customers. Kindly check and revert back.,Cancellation,High,Negative,Customer Success
+TCK-00604,Issue report: Card authorized but payment status still shows pending after 24 hours.,Payment,High,Negative,Billing
+TCK-01490,"Dear Support, Items missing from my delivered package for order #ORD-30749. Kindly check and revert back.",Order,Urgent,Negative,Logistics
+TCK-03363,Please help: I want to cancel my active subscription immediately and avoid future charges. This is very frustrating.,Cancellation,High,Neutral,Customer Success
+TCK-03123,"Dear Support, How do I upgrade from Basic to Enterprise tier subscription?",Subscription,Low,Neutral,Customer Success
+TCK-03497,"Hello support team, I want to cancel my active subscription immediately and avoid future charges.",Cancellation,Urgent,Neutral,Customer Success
+TCK-00061,"Hello support team, Can I add multiple user profiles under a single master account? Appreciate your assistance.",Account/Login,Low,Neutral,Technical Support
+TCK-03953,Unrecognized API key created under my developer profile credentials.,Security/Fraud,Urgent,Negative,Security
+TCK-00672,My credit card transaction was declined repeatedly without clear reason.,Payment,High,Negative,Billing
+TCK-00093,Thank you for helping me recover my login credentials yesterday! Please advise on next steps.,Account/Login,Low,Positive,Technical Support
+TCK-00667,"Dear Support, My credit card transaction was declined repeatedly without clear reason.",Payment,High,Negative,Billing
+TCK-01888,"Hello support team, Package #ORD-18253 shows delivered but I have not received it.",Delivery,Urgent,Negative,Logistics
+TCK-00281,Query: How can I change my registered email address on the account settings page?,Account/Login,Low,Neutral,Technical Support
+TCK-01720,"Hi there, Package arrived damaged with broken outer box and missing contents.",Delivery,Urgent,Negative,Logistics
+TCK-03259,Requesting billing cycle shift from 1st of month to 15th. Thanks for your help.,Subscription,Low,Neutral,Customer Success
+TCK-00360,How can I change my registered email address on the account settings page?,Account/Login,Low,Neutral,Technical Support
+TCK-00900,"Query: Received my store credit refund promptly, appreciate the swift assistance!",Refund,Low,Positive,Billing
+TCK-01936,Shipment delayed due to transit exception without revised ETA. Please resolve this as soon as possible.,Delivery,Medium,Negative,Logistics
+TCK-01995,Shipment delayed due to transit exception without revised ETA. System ref ID #9921.,Delivery,Medium,Negative,Logistics
+TCK-03310,Subscription status changed to inactive despite successful payment receipt.,Subscription,High,Negative,Customer Success
+TCK-02896,"Attn Customer Care, Mobile application crashes every time I tap on the settings menu. This is very frustrating.",Technical Support,High,Positive,Technical Support
+TCK-00761,"Hi there, Is it possible to split payment between two different credit cards? Thanks for your help.",Payment,Low,Neutral,Billing
+TCK-02159,Product specifications on website do not match the physical item received.,Product,High,Neutral,Product Support
+TCK-03775,Please confirm cancellation of order #ORD-87651 before dispatch.,Cancellation,High,Neutral,Customer Success
+TCK-00043,"Hi there, Can I add multiple user profiles under a single master account?",Account/Login,Low,Neutral,Technical Support
+TCK-02174,Received product with missing user manual and power adapter cable. System ref ID #9921.,Product,Medium,Negative,Product Support
+TCK-00205,Unable to log in using Google OAuth. It throws a 500 server error. Appreciate your assistance.,Account/Login,High,Negative,Technical Support
+TCK-01474,FYI: Can I add one more item to my active order before it ships?,Order,Low,Neutral,Logistics
+TCK-02101,Received product with missing user manual and power adapter cable. System ref ID #9921.,Product,Medium,Negative,Product Support
+TCK-02594,Query: Unable to install latest software update patch on Windows 11. This is very frustrating.,Technical Support,Medium,Negative,Technical Support
+TCK-00069,"Hi there, Unable to log in using Google OAuth. It throws a 500 server error.",Account/Login,High,Negative,Technical Support
+TCK-03599,Urgent: Tried canceling via chat but bot kept looping without completing request. This is very frustrating.,Cancellation,Medium,Negative,Customer Success
+TCK-01876,FYI: Address updated on portal but courier tried delivering to old address.,Delivery,High,Negative,Logistics
+TCK-02833,Mobile application crashes every time I tap on the settings menu. Appreciate your assistance.,Technical Support,High,Negative,Technical Support
+TCK-03412,"Hi there, Can I cancel my order within 1 hour of placing it online? System ref ID #9921.",Cancellation,Low,Neutral,Customer Success
+TCK-02232,Item build quality is cheap and plastic handle broke immediately. This is very frustrating.,Product,High,Negative,Product Support
+TCK-00138,Reset password link sent to my email is expired or broken.,Account/Login,Medium,Negative,Technical Support
+TCK-02948,"Hello support team, Price hike announced without 30 days prior notice to subscribers. Kindly check and revert back.",Subscription,Medium,Negative,Customer Success
+TCK-00797,"Issue report: Autopay processed successfully and invoice was clear, thank you. Appreciate your assistance.",Payment,Low,Positive,Billing
+TCK-02181,"Attn Customer Care, The product stopped working after 2 days of minimal usage. Please resolve this as soon as possible.",Product,High,Negative,Product Support
+TCK-02129,FYI: Screen has multiple dead pixels upon initial unboxing. Looking forward to your prompt response.,Product,High,Negative,Product Support
+TCK-03178,"Hello support team, Subscription status changed to inactive despite successful payment receipt. Please resolve this as soon as possible.",Subscription,High,Negative,Customer Success
+TCK-00759,Please help: Unrecognized charge of $79.99 appeared on my bank statement today. Please resolve this as soon as possible.,Payment,Urgent,Neutral,Billing
+TCK-00542,FYI: My credit card transaction was declined repeatedly without clear reason.,Payment,High,Negative,Billing
+TCK-01020,Still waiting on refund reference number for tracking purpose. Looking forward to your prompt response.,Refund,Low,Neutral,Billing
+TCK-03276,"Attn Customer Care, Requesting billing cycle shift from 1st of month to 15th.",Subscription,Low,Neutral,Customer Success
+TCK-03032,FYI: Subscription upgrade was instant and tier features are worth every penny!,Subscription,Low,Positive,Customer Success
+TCK-00166,Issue report: Cannot verify my phone number during account signup. Appreciate your assistance.,Account/Login,Medium,Negative,Technical Support
+TCK-00249,Keep getting invalid credentials error even though my password is correct. This is very frustrating.,Account/Login,Medium,Negative,Technical Support
+TCK-01332,Query: Order placement was effortless and checkout process was intuitive. System ref ID #9921.,Order,Low,Positive,Logistics
+TCK-02018,"Attn Customer Care, Can I schedule weekend delivery for my upcoming package?",Delivery,Low,Neutral,Logistics
+TCK-00447,"Hello support team, What payment methods do you accept for international orders? Please resolve this as soon as possible.",Payment,Low,Neutral,Billing
+TCK-02483,Buttons on the controller are non-responsive straight out of the box.,Product,High,Negative,Product Support
+TCK-02907,Desktop app fails to sync offline data when reconnected to internet. Thanks for your help.,Technical Support,High,Negative,Technical Support
+TCK-01359,"Dear Support, Order status has been stuck on 'Processing' for over 5 days. Please resolve this as soon as possible.",Order,High,Negative,Logistics
+TCK-02846,"Hello support team, Super clear documentation made technical integration seamless!",Technical Support,Low,Positive,Technical Support
+TCK-02146,"Hello support team, Are there replacement parts available for model #ORD-46822?",Product,Low,Neutral,Product Support
+TCK-01330,Please help: Where can I track my order #ORD-89788? Tracking number isn't updating. This is very frustrating.,Order,Medium,Neutral,Logistics
+TCK-02854,Feature request: support dark mode toggle on web portal. Please resolve this as soon as possible.,Technical Support,Low,Neutral,Technical Support
+TCK-02786,"Urgent: Tech support team resolved my software issue in 10 minutes flat, amazing service! Appreciate your assistance.",Technical Support,Low,Negative,Technical Support
+TCK-00764,FYI: Payment failed during checkout but the money was deducted from my bank account.,Payment,Urgent,Negative,Billing
+TCK-02151,FYI: How do I activate the 1-year manufacturer warranty for this item?,Product,Low,Neutral,Product Support
+TCK-00435,I was charged twice for order #ORD-79963 on my credit card statement.,Payment,High,Negative,Billing
+TCK-02123,Buttons on the controller are non-responsive straight out of the box. Looking forward to your prompt response.,Product,High,Negative,Product Support
+TCK-00578,"Hi there, Payment failed during checkout but the money was deducted from my bank account. This is very frustrating.",Payment,Urgent,Negative,Billing
+TCK-02901,Feature request: support dark mode toggle on web portal.,Technical Support,Low,Neutral,Technical Support
+TCK-03428,Extremely difficult cancellation workflow designed to trap customers. Thanks for your help.,Cancellation,High,Negative,Customer Success
+TCK-03279,Charged annual fee instead of monthly plan selected during checkout.,Subscription,High,Negative,Customer Success
+TCK-02967,Promo discount code did not apply to subscription renewal.,Subscription,Medium,Negative,Customer Success
+TCK-02815,"Attn Customer Care, Tech support team resolved my software issue in 10 minutes flat, amazing service! This is very frustrating.",Technical Support,Low,Positive,Technical Support
+TCK-04149,App asking for unnecessary permissions on Android system.,Security/Fraud,Medium,Negative,Security
+TCK-02449,Product specifications on website do not match the physical item received. Kindly check and revert back.,Product,High,Neutral,Product Support
+TCK-01849,"Hello support team, Delivery driver missed scheduled slot and marked recipient unavailable.",Delivery,Medium,Negative,Logistics
+TCK-00763,Query: Is it possible to split payment between two different credit cards? Kindly check and revert back.,Payment,Low,Neutral,Billing
+TCK-03038,Issue report: Price hike announced without 30 days prior notice to subscribers. Thanks for your help.,Subscription,Medium,Negative,Customer Success
+TCK-00389,"Hello support team, How can I change my registered email address on the account settings page? Appreciate your assistance.",Account/Login,Low,Neutral,Technical Support
+TCK-00236,How can I change my registered email address on the account settings page? Please resolve this as soon as possible.,Account/Login,Low,Neutral,Technical Support
+TCK-03752,Confirming that my subscription will auto-terminate at end of current cycle. Please resolve this as soon as possible.,Cancellation,Low,Neutral,Customer Success
+TCK-01985,Urgent: Delivery executive was polite and delivered right on time!,Delivery,Low,Positive,Logistics
+TCK-00268,How can I change my registered email address on the account settings page?,Account/Login,Low,Neutral,Technical Support
+TCK-00771,Urgent: What payment methods do you accept for international orders?,Payment,Low,Neutral,Billing
+TCK-02166,"Dear Support, Device overheating excessively while operating on standard settings. Please advise on next steps.",Product,Urgent,Negative,Product Support
+TCK-00438,Urgent: Card authorized but payment status still shows pending after 24 hours.,Payment,High,Negative,Billing
+TCK-00674,"Dear Support, Card authorized but payment status still shows pending after 24 hours.",Payment,High,Negative,Billing
+TCK-00250,My account was disabled suddenly without any notification. Kindly check and revert back.,Account/Login,Urgent,Negative,Technical Support
+TCK-02202,Product specifications on website do not match the physical item received.,Product,High,Negative,Product Support
+TCK-01575,FYI: Where can I track my order #ORD-23255? Tracking number isn't updating.,Order,Medium,Neutral,Logistics
+TCK-03144,"Please help: Loved the free trial experience, excited to be on paid subscription!",Subscription,Low,Positive,Customer Success
+TCK-02143,Issue report: Product specifications on website do not match the physical item received. Thanks for your help.,Product,Urgent,Negative,Product Support
+TCK-02082,Urgent: Delivery executive was polite and delivered right on time! This is very frustrating.,Delivery,Low,Positive,Logistics
+TCK-03769,"Query: Canceled service due to moving abroad, smooth procedure. Please advise on next steps.",Cancellation,Low,Neutral,Customer Success
+TCK-04085,"Hi there, Received a phishing email claiming to be from your security department.",Security/Fraud,High,Positive,Security
+TCK-03941,Urgent: Unrecognized API key created under my developer profile credentials.,Security/Fraud,Urgent,Negative,Security
+TCK-00449,Received a billing error notification during checkout completion.,Payment,High,Negative,Billing
+TCK-01470,Issue report: Order summary shows incorrect quantities for item list.,Order,Medium,Negative,Logistics
+TCK-00717,"Autopay processed successfully and invoice was clear, thank you.",Payment,Low,Positive,Billing
+TCK-03439,"Canceled service due to moving abroad, smooth procedure.",Cancellation,Low,Neutral,Customer Success
+TCK-03765,Please help: What is your cancellation policy for annual membership contracts? Thanks for your help.,Cancellation,Low,Neutral,Customer Success
+TCK-02049,"Outstanding delivery service, package arrived in pristine condition!",Delivery,Low,Positive,Logistics
+TCK-01902,"Hi there, Delivery driver missed scheduled slot and marked recipient unavailable. Thanks for your help.",Delivery,Urgent,Negative,Logistics
+TCK-03987,Issue report: How do I enable hardware key two-factor security authentication? Kindly check and revert back.,Security/Fraud,Low,Neutral,Security
+TCK-03150,What features are included in the Pro tier plan? Appreciate your assistance.,Subscription,Low,Neutral,Customer Success
+TCK-03157,"Loved the free trial experience, excited to be on paid subscription!",Subscription,Low,Positive,Customer Success
+TCK-01169,Please help: Wrong item delivered and refund process is taking way too long.,Refund,High,Negative,Billing
+TCK-00083,"Dear Support, Thank you for helping me recover my login credentials yesterday!",Account/Login,Medium,Positive,Technical Support
+TCK-03470,Extremely difficult cancellation workflow designed to trap customers.,Cancellation,High,Negative,Customer Success
+TCK-02725,Query: Feature request: support dark mode toggle on web portal. Please resolve this as soon as possible.,Technical Support,Low,Neutral,Technical Support
+TCK-03045,Requesting billing cycle shift from 1st of month to 15th.,Subscription,Low,Neutral,Customer Success
+TCK-03095,"Hello support team, Requesting billing cycle shift from 1st of month to 15th. System ref ID #9921.",Subscription,Low,Neutral,Customer Success
+TCK-01461,Can I add one more item to my active order before it ships?,Order,Low,Neutral,Logistics
+TCK-02819,Super clear documentation made technical integration seamless! Please advise on next steps.,Technical Support,Low,Positive,Technical Support
+TCK-01894,Package #ORD-19996 shows delivered but I have not received it. Thanks for your help.,Delivery,Urgent,Negative,Logistics
+TCK-01669,Order summary shows incorrect quantities for item list. Kindly check and revert back.,Order,Medium,Negative,Logistics
+TCK-02757,"Hi there, Video playback player stutters and buffers continuously on HD quality. Please resolve this as soon as possible.",Technical Support,Urgent,Negative,Technical Support
+TCK-02001,"Dear Support, Package #ORD-83076 shows delivered but I have not received it.",Delivery,Urgent,Negative,Logistics
+TCK-00476,"Autopay processed successfully and invoice was clear, thank you. System ref ID #9921.",Payment,Low,Positive,Billing
+TCK-00518,What paymnt methods do you accept for international orders?,Payment,Low,Neutral,Billing
+TCK-03732,Please help: What is your cancellation policy for annual membership contracts? Appreciate your assistance.,Cancellation,Low,Neutral,Customer Success
+TCK-00405,"Dear Support, Reset password link sent to my email is expired or broken.",Account/Login,Medium,Negative,Technical Support
+TCK-00385,FYI: How can I change my registered email address on the account settings page? Looking forward to your prompt response.,Account/Login,Low,Neutral,Technical Support
+TCK-03484,Extremely difficult cancellation workflow designed to trap customers. Please advise on next steps.,Cancellation,High,Negative,Customer Success
+TCK-03537,Cancellation button on dashboard is hidden or broken.,Cancellation,High,Negative,Customer Success
+TCK-02153,How do I activate the 1-year manufacturer warranty for this item? Thanks for your help.,Product,Low,Neutral,Product Support
+TCK-01634,My order was canceled automatically without any explanation.,Order,Urgent,Negative,Logistics
+TCK-04104,Urgent: Unrecognized API key created under my developer profile credentials.,Security/Fraud,Urgent,Negative,Security
+TCK-00689,Issue report: Received a billing error notification during checkout completion.,Payment,High,Negative,Billing
+TCK-03498,"Issue report: Cancellation was processed swiftly without pushy retention calls, thank you. Please resolve this as soon as possible.",Cancellation,Low,Positive,Customer Success
+TCK-02875,Mobile application crashes every time I tap on the settings menu. Thanks for your help.,Technical Support,High,Negative,Technical Support
+TCK-01241,"Attn Customer Care, I returned item #ORD-19103 two weeks ago and still haven't received my refund. This is very frustrating.",Refund,High,Neutral,Billing
+TCK-00063,I forgot my password and cannot access my account despite multiple reset attempts.,Account/Login,Medium,Negative,Technical Support
+TCK-00853,Requesting a full refund for damaged product delivered yesterday. Looking forward to your prompt response.,Refund,High,Negative,Billing
+TCK-03955,Unrecognized API key created under my developer profile credentials.,Security/Fraud,Urgent,Negative,Security
+TCK-03554,"Dear Support, Can I cancel my order within 1 hour of placing it online? Looking forward to your prompt response.",Cancellation,Low,Neutral,Customer Success
+TCK-01263,"Order arrived earlier than expected in excellent packaging, thank you!",Order,Low,Positive,Logistics
+TCK-00224,Reset password link sent to my email is expired or broken.,Account/Login,Medium,Negative,Technical Support
+TCK-02194,How do I activate the 1-year manufacturer warranty for this item?,Product,Low,Neutral,Product Support
+TCK-03137,How do I upgrade from Basic to Enterprise tier subscription?,Subscription,High,Positive,Customer Success
+TCK-00374,"Dear Support, My account was disabled suddenly without any notification.",Account/Login,Medium,Negative,Technical Support
+TCK-01825,Urgent: Package arrived damaged with broken outer box and missing contents.,Delivery,Urgent,Negative,Logistics
+TCK-03645,Please help: Was charged renewal fee after submitting cancellation request 3 days ago.,Cancellation,Urgent,Negative,Customer Success
+TCK-03191,Want to pause my recurring subscription for 2 months while traveling. Kindly check and revert back.,Subscription,Low,Neutral,Customer Success
+TCK-04108,Issue report: Notification received for password change that I did not initiate.,Security/Fraud,Low,Negative,Security
+TCK-03738,Please confirm cancellation of order #ORD-23665 before dispatch. System ref ID #9921.,Cancellation,High,Neutral,Customer Success
+TCK-03323,Query: Charged annual fee instead of monthly plan selected during checkout.,Subscription,High,Negative,Customer Success
+TCK-03314,Subscription upgrade was instant and tier features are worth every penny!,Subscription,Low,Positive,Customer Success
+TCK-03863,"Attn Customer Care, Security response team acted instantly to secure my compromised account, heroic work!",Security/Fraud,Low,Positive,Security
+TCK-02872,FYI: SSL certificate error throwing warning on browser load.,Technical Support,High,Negative,Technical Support
+TCK-00010,Issue report: Locked out of my profile after updating two-factor authentication. Appreciate your assistance.,Account/Login,High,Negative,Technical Support
+TCK-02498,The product stopped working after 2 days of minimal usage.,Product,High,Neutral,Product Support
+TCK-01945,Query: Can I schedule weekend delivery for my upcoming package? Thanks for your help.,Delivery,Low,Neutral,Logistics
+TCK-01839,Express shipping paid but package took 7 days to arrive. Thanks for your help.,Delivery,High,Negative,Logistics
+TCK-00709,Invoice #ORD-68827 shows incorrect tax billing details.,Payment,Medium,Negative,Billing
+TCK-00256,Cannot verify my phone number during account signup. Please resolve this as soon as possible.,Account/Login,Medium,Negative,Technical Support
+TCK-02931,"Attn Customer Care, Getting database connection error during report export. Appreciate your assistance.",Technical Support,Urgent,Negative,Technical Support
+TCK-01618,Need an official tax invoice generated for order #ORD-47643.,Order,Low,Neutral,Logistics
+TCK-00390,Locked out of my profile after updating two-factor authentication.,Account/Login,High,Negative,Technical Support
+TCK-03683,Issue report: What is your cancellation policy for annual membership contracts?,Cancellation,Low,Neutral,Customer Success
+TCK-01582,"Dear Support, Order arrived earlier than expected in excellent packaging, thank you! Looking forward to your prompt response.",Order,Low,Positive,Logistics
+TCK-02957,Accidentally subscribed twice under two different email addresses.,Subscription,Medium,Negative,Customer Success
+TCK-00925,"Received my store credit refund promptly, appreciate the swift assistance!",Refund,High,Positive,Billing
+TCK-03986,Please help: Unrecognized API key created under my developer profile credentials. This is very frustrating.,Security/Fraud,Urgent,Negative,Security
+TCK-03820,FYI: Notification received for password change that I did not initiate. System ref ID #9921.,Security/Fraud,Urgent,Negative,Security
+TCK-02509,Buttons on the controller are non-responsive straight out of the box.,Product,High,Negative,Product Support
+TCK-02037,FYI: Address updated on portal but courier tried delivering to old address.,Delivery,High,Negative,Logistics
+TCK-03444,I want to cancel my active subscription immediately and avoid future charges.,Cancellation,High,Neutral,Customer Success
+TCK-01225,Issue report: Extremely disappointed with delay in processing my partial refund request.,Refund,High,Negative,Billing
+TCK-03217,FYI: Charged annual fee instead of monthly plan selected during checkout. Please resolve this as soon as possible.,Subscription,High,Negative,Customer Success
+TCK-03007,Want to pause my recurring subscription for 2 months while traveling.,Subscription,Low,Neutral,Customer Success
+TCK-02550,How do I integrate your webhook with our internal CRM workflow? Looking forward to your prompt response.,Technical Support,Low,Neutral,Technical Support
+TCK-01947,"Outstanding delivery service, package arrived in pristine condition! Appreciate your assistance.",Delivery,Low,Positive,Logistics
+TCK-00740,Query: Invoice #ORD-55593 shows incorrect tax billing details.,Payment,Medium,Negative,Billing
+TCK-00041,I forgot my password and cannot access my account despite multiple reset attempts.,Account/Login,Medium,Negative,Technical Support
+TCK-00869,"Hello support team, Requesting a full refund for damaged product delivered yesterday.",Refund,High,Negative,Billing
+TCK-02780,Please help: How do I integrate your webhook with our internal CRM workflow?,Technical Support,Low,Neutral,Technical Support
+TCK-00540,"Dear Support, Is it possible to split payment between two different credit cards?",Payment,Low,Neutral,Billing
+TCK-03250,FYI: Want to pause my recurring subscription for 2 months while traveling. System ref ID #9921.,Subscription,Low,Neutral,Customer Success
+TCK-03388,Was charged renewal fee after submitting cancellation request 3 days ago. System ref ID #9921.,Cancellation,Urgent,Negative,Customer Success
+TCK-02746,Please help: Getting database connection error during report export.,Technical Support,Urgent,Negative,Technical Support
+TCK-03608,I want to cancel my active subscription immediately and avoid future charges.,Cancellation,High,Neutral,Customer Success
+TCK-02724,Query: Getting database connection error during report export. Appreciate your assistance.,Technical Support,Urgent,Positive,Technical Support
+TCK-01372,Where can I track my order #ORD-66927? Tracking number isn't updating. Thanks for your help.,Order,High,Neutral,Logistics
+TCK-01146,"Attn Customer Care, Returned defective gadget, please initiate immediate refund to original payment source.",Refund,High,Negative,Billing
+TCK-01032,"Attn Customer Care, Wrong item delivered and refund process is taking way too long. Looking forward to your prompt response.",Refund,Urgent,Positive,Billing
+TCK-00373,"Attn Customer Care, I forgot my password and cannot access my account despite multiple reset attempts. Please advise on next steps.",Account/Login,Medium,Negative,Technical Support
+TCK-00668,My credit card transaction was declined repeatedly without clear reason. System ref ID #9921.,Payment,High,Negative,Billing
+TCK-03020,"Loved the free trial experience, excited to be on paid subscription!",Subscription,Low,Positive,Customer Success
+TCK-00358,Thank you for helping me recover my login credentials yesterday! Appreciate your assistance.,Account/Login,Low,Positive,Technical Support
+TCK-00968,"Hi there, Wrong item delivered and refund process is taking way too long.",Refund,High,Negative,Billing
+TCK-02832,"Please help: Tech support team resolved my software issue in 10 minutes flat, amazing service! Appreciate your assistance.",Technical Support,Low,Positive,Technical Support
+TCK-02784,"Hi there, Getting database connection error during report export. Please resolve this as soon as possible.",Technical Support,Urgent,Negative,Technical Support
+TCK-01354,Where can I track my order #ORD-66547? Tracking number isn't updating.,Order,Medium,Neutral,Logistics
+TCK-01036,"Received my store credit refund promptly, appreciate the swift assistance! Please advise on next steps.",Refund,Low,Positive,Billing
+TCK-03019,"Attn Customer Care, Loved the free trial experience, excited to be on paid subscription! Please advise on next steps.",Subscription,Low,Positive,Customer Success
+TCK-00471,"Dear Support, My credit card transaction was declined repeatedly without clear reason. Looking forward to your prompt response.",Payment,High,Negative,Billing
+TCK-03730,"Attn Customer Care, Was charged renewal fee after submitting cancellation request 3 days ago. Thanks for your help.",Cancellation,Urgent,Negative,Customer Success
+TCK-03331,Promo discount code did not apply to subscription renewal. Appreciate your assistance.,Subscription,Medium,Negative,Customer Success
+TCK-01397,"Attn Customer Care, Items missing from my delivered package for order #ORD-20673. Please advise on next steps.",Order,Urgent,Negative,Logistics
+TCK-04199,Someone accessed my account from an unknown IP address in another country.,Security/Fraud,Urgent,Negative,Security
+TCK-01550,Can I add one more item to my active order before it ships?,Order,Low,Neutral,Logistics
+TCK-03377,Tried canceling via chat but bot kept looping without completing request. Please advise on next steps.,Cancellation,Medium,Negative,Customer Success
+TCK-01257,"Received my store credit refund promptly, appreciate the swift assistance!",Refund,Low,Positive,Billing
+TCK-02095,Package arrived damaged with broken outer box and missing contents. Thanks for your help.,Delivery,Urgent,Negative,Logistics
+TCK-01556,"Wrong color ordered by mistake, how can I modify item specifications? This is very frustrating.",Order,Medium,Neutral,Logistics
+TCK-03936,Unrecognized API key created under my developer profile credentials.,Security/Fraud,Urgent,Negative,Security
+TCK-01251,"Returned defective gadget, please initiate immediate refund to original payment source. System ref ID #9921.",Refund,High,Negative,Billing
+TCK-01700,Query: Courier driver left package in heavy rain and box is completely soaked. Looking forward to your prompt response.,Delivery,High,Negative,Logistics
+TCK-01253,Thank you for issuing the full refund without any hassle. Please resolve this as soon as possible.,Refund,Low,Positive,Billing
+TCK-03975,App asking for unnecessary permissions on Android system.,Security/Fraud,Medium,Negative,Security
+TCK-04000,App asking for unnecessary permissions on Android system.,Security/Fraud,Medium,Negative,Security
+TCK-03285,FYI: Price hike announced without 30 days prior notice to subscribers. Appreciate your assistance.,Subscription,Medium,Negative,Customer Success
+TCK-02934,Super clear documentation made technical integration seamless! Please advise on next steps.,Technical Support,Low,Positive,Technical Support
+TCK-00080,Session keeps timing out every 2 minutes while working on dashboard. Appreciate your assistance.,Account/Login,High,Negative,Technical Support
+TCK-01173,"Hello support team, Wrong item delivered and refund process is taking way too long. Kindly check and revert back.",Refund,High,Negative,Billing
+TCK-00815,"FYI: Your payment gateway is extremely smooth and fast, great job!",Payment,Low,Positive,Billing
+TCK-01853,Courier driver left package in heavy rain and box is completely soaked. System ref ID #9921.,Delivery,High,Negative,Logistics
+TCK-02221,The product stopped working after 2 days of minimal usage.,Product,High,Negative,Product Support
+TCK-02720,Urgent: Getting database connection error during report export.,Technical Support,Urgent,Negative,Technical Support
+TCK-03782,Please help: Suspicious unauthorized transaction of $450 detected on my account.,Security/Fraud,Urgent,Negative,Security
+TCK-02106,"Hello support team, Device overheating excessively while operating on standard settings.",Product,Urgent,Negative,Product Support
+TCK-00134,"Smooth login experience, just wanted to check if biometric login is coming soon. Thanks for your help.",Account/Login,Low,Positive,Technical Support
+TCK-01141,"Hi there, I returned item #ORD-94202 two weeks ago and still haven't received my refund.",Refund,High,Negative,Billing
+TCK-00934,How long does it take for a refund to reflect in my bank account? Please advise on next steps.,Refund,Low,Neutral,Billing
+TCK-00929,"Hi there, Still waiting on refund reference number for tracking purpose. Appreciate your assistance.",Refund,Medium,Neutral,Billing
+TCK-00824,Received a billing error notification during checkout completion.,Payment,High,Negative,Billing
+TCK-03570,I want to cancel my active subscription immediately and avoid future charges.,Cancellation,High,Neutral,Customer Success
+TCK-01532,Where can I track my order #ORD-79916? Tracking number isn't updating. System ref ID #9921.,Order,High,Neutral,Logistics
+TCK-01215,Why was my refund request rejected when product was returned unopened?,Refund,Urgent,Negative,Billing
+TCK-00505,Card authorized but payment status still shows pending after 24 hours. This is very frustrating.,Payment,High,Negative,Billing
+TCK-04177,How do I enable hardware key two-factor security authentication? Kindly check and revert back.,Security/Fraud,Low,Negative,Security
+TCK-02396,"Hi there, Device overheating excessively while operating on standard settings. System ref ID #9921.",Product,Urgent,Negative,Product Support
+TCK-01997,When is the expected delivery date for shipment tracking #ORD-12026?,Delivery,Low,Neutral,Logistics
+TCK-02435,How do I activate the 1-year manufacturer warranty for this item? Kindly check and revert back.,Product,Low,Neutral,Product Support
+TCK-03073,Query: How do I upgrade from Basic to Enterprise tier subscription?,Subscription,Low,Neutral,Customer Success
+TCK-01959,"Hi there, Can I schedule weekend delivery for my upcoming package?",Delivery,Low,Negative,Logistics
+TCK-01385,Need an official tax invoice generated for order #ORD-15542.,Order,Low,Neutral,Logistics
+TCK-00895,"Dear Support, Thank you for issuing the full refund without any hassle. Please advise on next steps.",Refund,Low,Positive,Billing
+TCK-00829,"Dear Support, Autopay processed successfully and invoice was clear, thank you. This is very frustrating.",Payment,Low,Positive,Billing
+TCK-00456,FYI: Received a billing error notification during checkout completion.,Payment,High,Negative,Billing
+TCK-02524,Video playback player stutters and buffers continuously on HD quality.,Technical Support,Medium,Negative,Technical Support
+TCK-01684,Query: When is the expected delivery date for shipment tracking #ORD-49783?,Delivery,Low,Neutral,Logistics
+TCK-03705,"FYI: Canceled service due to moving abroad, smooth procedure. System ref ID #9921.",Cancellation,Low,Neutral,Customer Success
+TCK-03678,"Urgent: Canceled service due to moving abroad, smooth procedure. System ref ID #9921.",Cancellation,Low,Neutral,Customer Success
+TCK-03612,Confirming that my subscription will auto-terminate at end of current cycle. Looking forward to your prompt response.,Cancellation,Low,Neutral,Customer Success
+TCK-00653,Payment failed during checkout but the money was deducted from my bank account. Please resolve this as soon as possible.,Payment,Urgent,Neutral,Billing
+TCK-00173,How can I change my registered email address on the account settings page? Thanks for your help.,Account/Login,Low,Positive,Technical Support
+TCK-03198,My monthly subscription renewed automatically but I didn't receive account credits.,Subscription,High,Negative,Customer Success
+TCK-00039,Urgent: How can I change my registered email address on the account settings page? System ref ID #9921.,Account/Login,Low,Neutral,Technical Support
+TCK-01882,"Attn Customer Care, Express shipping paid but package took 7 days to arrive.",Delivery,High,Negative,Logistics
+TCK-00714,"Hi there, I was charged twice for order #ORD-87874 on my credit card statement. Please resolve this as soon as possible.",Payment,High,Negative,Billing
+TCK-00091,"Dear Support, Keep getting invalid credentials error even though my password is correct. Thanks for your help.",Account/Login,Medium,Negative,Technical Support
+TCK-02215,Item build quality is cheap and plastic handle broke immediately.,Product,High,Negative,Product Support
+TCK-01206,"Attn Customer Care, Returned defective gadget, please initiate immediate refund to original payment source. Appreciate your assistance.",Refund,High,Negative,Billing
+TCK-02924,Please help: Desktop app fails to sync offline data when reconnected to internet.,Technical Support,High,Negative,Technical Support
+TCK-03551,"Hi there, Tried canceling via chat but bot kept looping without completing request. Please resolve this as soon as possible.",Cancellation,Medium,Negative,Customer Success
+TCK-03720,Cancellation button on dashboard is hidden or broken.,Cancellation,Medium,Negative,Customer Success
+TCK-03324,Issue report: Subscription status changed to inactive despite successful payment receipt.,Subscription,High,Negative,Customer Success
+TCK-03142,FYI: Price hike announced without 30 days prior notice to subscribers.,Subscription,Medium,Negative,Customer Success
+TCK-01828,Please help: Delivery executive was polite and delivered right on time! Please resolve this as soon as possible.,Delivery,Low,Negative,Logistics
+TCK-01156,"Hello support team, Requesting a full refund for damaged product delivered yesterday. Looking forward to your prompt response.",Refund,High,Negative,Billing
+TCK-01325,Need an official tax invoice generated for order #ORD-46671. System ref ID #9921.,Order,Low,Neutral,Logistics
+TCK-00217,Locked out of my profile after updating two-factor authentication.,Account/Login,High,Negative,Technical Support
+TCK-03399,"Hi there, Canceled service due to moving abroad, smooth procedure.",Cancellation,Low,Neutral,Customer Success
+TCK-00511,What payment methods do you accept for international orders?,Payment,High,Neutral,Billing
+TCK-01681,FYI: Delivery executive was polite and delivered right on time! Looking forward to your prompt response.,Delivery,Low,Positive,Logistics
+TCK-00500,Query: I was charged twice for order #ORD-81939 on my credit card statement.,Payment,High,Negative,Billing
+TCK-03558,Issue report: Please confirm cancellation of order #ORD-90896 before dispatch. Please advise on next steps.,Cancellation,High,Neutral,Customer Success
+TCK-01857,Can I schedule weekend delivery for my upcoming package?,Delivery,Low,Neutral,Logistics
+TCK-01389,"Hello support team, My order was canceled automatically without any explanation.",Order,Urgent,Negative,Logistics
+TCK-01520,Order status has been stuck on 'Processing' for over 5 days.,Order,High,Negative,Logistics
+TCK-02387,Item build quality is cheap and plastic handle broke immediately.,Product,High,Negative,Product Support
+TCK-03915,How do I enable hardware key two-factor security authentication? Appreciate your assistance.,Security/Fraud,Low,Neutral,Security
+TCK-03237,Query: Subscription upgrade was instant and tier features are worth every penny! System ref ID #9921.,Subscription,Low,Positive,Customer Success
+TCK-02077,Package arrived damaged with broken outer box and missing contents. Kindly check and revert back.,Delivery,Urgent,Negative,Logistics
+TCK-01541,Urgent: Where can I track my order #ORD-28446? Tracking number isn't updating. Looking forward to your prompt response.,Order,Medium,Neutral,Logistics
+TCK-01218,"Hi there, Why was my refund request rejected when product was returned unopened?",Refund,Urgent,Negative,Billing
+TCK-02682,Getting database connection error during report export. Thanks for your help.,Technical Support,Urgent,Positive,Technical Support
+TCK-02843,SSL certificate error throwing warning on browser load. Kindly check and revert back.,Technical Support,High,Negative,Technical Support
+TCK-02994,"Please help: Loved the free trial experience, excited to be on paid subscription! System ref ID #9921.",Subscription,Low,Positive,Customer Success
+TCK-01417,Items missing from my delivered package for order #ORD-43166.,Order,Urgent,Negative,Logistics
+TCK-02218,Screen has multiple dead pixels upon initial unboxing. Looking forward to your prompt response.,Product,High,Negative,Product Support
+TCK-03621,Issue report: Tried canceling via chat but bot kept looping without completing request. Please resolve this as soon as possible.,Cancellation,Medium,Negative,Customer Success
+TCK-01677,"Attn Customer Care, Order arrived earlier than expected in excellent packaging, thank you!",Order,Low,Negative,Logistics
+TCK-01198,Extremely disappointed with delay in processing my partial refund request. Kindly check and revert back.,Refund,High,Negative,Billing
+TCK-01543,Urgent: Order status has been stuck on 'Processing' for over 5 days. Looking forward to your prompt response.,Order,High,Negative,Logistics
+TCK-03302,"Hello support team, Loved the free trial experience, excited to be on paid subscription!",Subscription,Low,Positive,Customer Success
+TCK-03614,"Attn Customer Care, Confirming that my subscription will auto-terminate at end of current cycle.",Cancellation,Low,Neutral,Customer Success
+TCK-02961,Accidentally subscribed twice under two different email addresses.,Subscription,Medium,Negative,Customer Success
+TCK-02540,Mobile application crashes every time I tap on the settings menu. System ref ID #9921.,Technical Support,High,Negative,Technical Support
+TCK-00954,"Hello support team, How long does it take for a refund to reflect in my bank account?",Refund,Low,Neutral,Billing
+TCK-03146,"Hi there, Requesting billing cycle shift from 1st of month to 15th.",Subscription,Low,Neutral,Customer Success
+TCK-03081,Price hike announced without 30 days prior notice to subscribers.,Subscription,Medium,Negative,Customer Success
+TCK-02636,"Hi there, Unable to install latest software update patch on Windows 11. System ref ID #9921.",Technical Support,Medium,Negative,Technical Support
+TCK-00751,"Dear Support, Overcharged on shipping fee during invoice calculation.",Payment,Medium,Negative,Billing
+TCK-02706,"Dear Support, Memory leak causing browser tab to freeze after 30 minutes of use.",Technical Support,High,Negative,Technical Support
+TCK-00235,Thank you for helping me recover my login credentials yesterday! Please advise on next steps.,Account/Login,Low,Positive,Technical Support
+TCK-00733,Overcharged on shipping fee during invoice calculation.,Payment,Medium,Negative,Billing
+TCK-01239,"Dear Support, Need refund for canceled item order #ORD-40988.",Refund,Medium,Neutral,Billing
+TCK-04044,Someone accessed my account from an unknown IP address in another country. Appreciate your assistance.,Security/Fraud,High,Negative,Security
+TCK-01157,Still waiting on refund reference number for tracking purpose. This is very frustrating.,Refund,Medium,Neutral,Billing
+TCK-03704,Tried canceling via chat but bot kept looping without completing request.,Cancellation,Medium,Negative,Customer Success
+TCK-03650,FYI: Please confirm cancellation of order #ORD-57245 before dispatch. Please resolve this as soon as possible.,Cancellation,High,Neutral,Customer Success
+TCK-02446,Product specifications on website do not match the physical item received. Looking forward to your prompt response.,Product,High,Negative,Product Support
+TCK-02983,FYI: Charged annual fee instead of monthly plan selected during checkout. Looking forward to your prompt response.,Subscription,High,Negative,Customer Success
+TCK-01210,Still waiting on refund reference number for tracking purpose. Please advise on next steps.,Refund,Medium,Neutral,Billing
+TCK-01066,Query: Wrong item delivered and refund process is taking way too long. Please advise on next steps.,Refund,High,Negative,Billing
+TCK-02157,"Attn Customer Care, Product specifications on website do not match the physical item received. Thanks for your help.",Product,High,Negative,Product Support
+TCK-01063,Still waiting on refund reference number for tracking purpose.,Refund,Medium,Neutral,Billing
+TCK-02617,"Hello support team, Video playback player stutters and buffers continuously on HD quality.",Technical Support,Medium,Negative,Technical Support
+TCK-01168,"Attn Customer Care, I returned item #ORD-84603 two weeks ago and still haven't received my refund.",Refund,High,Negative,Billing
+TCK-03223,"Hello support team, Promo discount code did not apply to subscription renewal.",Subscription,Medium,Neutral,Customer Success
+TCK-01493,Please help: Need an official tax invoice generated for order #ORD-91062. System ref ID #9921.,Order,Low,Neutral,Logistics
+TCK-02939,Video playback player stutters and buffers continuously on HD quality. System ref ID #9921.,Technical Support,Low,Negative,Technical Support
+TCK-02996,My monthly subscription renewed automatically but I didn't receive account credits.,Subscription,High,Negative,Customer Success
+TCK-03097,Accidentally subscribed twice under two different email addresses. Thanks for your help.,Subscription,Medium,Negative,Customer Success
+TCK-03552,FYI: Tried canceling via chat but bot kept looping without completing request. Thanks for your help.,Cancellation,Medium,Negative,Customer Success
+TCK-03831,"Hi there, Credit card credentials compromised right after purchase.",Security/Fraud,Urgent,Negative,Security
+TCK-03141,Urgent: Want to pause my recurring subscription for 2 months while traveling. Please advise on next steps.,Subscription,Low,Neutral,Customer Success
+TCK-00885,"Dear Support, Still waiting on refund reference number for tracking purpose. Appreciate your assistance.",Refund,Medium,Neutral,Billing
+TCK-00144,Session keeps timing out every 2 minutes while working on dashboard. Please resolve this as soon as possible.,Account/Login,High,Negative,Technical Support
+TCK-01391,"Attn Customer Care, Received confirmation email but order doesn't show up in my purchase history. System ref ID #9921.",Order,Medium,Negative,Logistics
+TCK-00851,"Dear Support, How long does it take for a refund to reflect in my bank account?",Refund,Low,Neutral,Billing
+TCK-03456,"FYI: Canceled service due to moving abroad, smooth procedure. System ref ID #9921.",Cancellation,Low,Neutral,Customer Success
+TCK-02783,Getting database connection error during report export. Looking forward to your prompt response.,Technical Support,Urgent,Negative,Technical Support
+TCK-00718,"Dear Support, I was charged twice for order #ORD-43847 on my credit card statement.",Payment,High,Negative,Billing
+TCK-04090,"My password was leaked in a public data breach, need immediate account lock. Appreciate your assistance.",Security/Fraud,Medium,Negative,Security
+TCK-02503,Please help: Item build quality is cheap and plastic handle broke immediately. Looking forward to your prompt response.,Product,Low,Negative,Product Support
+TCK-00265,"Attn Customer Care, Cannot verify my phone number during account signup.",Account/Login,Medium,Negative,Technical Support
+TCK-00076,Thank you for helping me recover my login credentials yesterday! Please advise on next steps.,Account/Login,Low,Positive,Technical Support
+TCK-03930,Urgent: Unrecognized API key created under my developer profile credentials. This is very frustrating.,Security/Fraud,Urgent,Negative,Security
+TCK-02493,"Hi there, Product specifications on website do not match the physical item received. Thanks for your help.",Product,High,Negative,Product Support
+TCK-00396,Cannot verify my phone number during account signup.,Account/Login,Urgent,Negative,Technical Support
+TCK-03662,Urgent: Tried canceling via chat but bot kept looping without completing request. Please advise on next steps.,Cancellation,Medium,Negative,Customer Success
+TCK-02225,Item build quality is cheap and plastic handle broke immediately.,Product,High,Negative,Product Support
+TCK-03091,Price hike announced without 30 days prior notice to subscribers.,Subscription,Medium,Negative,Customer Success
+TCK-04022,Appreciate your robust encryption and proactive fraud alerts!,Security/Fraud,Low,Positive,Security
+TCK-00397,"Dear Support, My account was disabled suddenly without any notification. Kindly check and revert back.",Account/Login,Medium,Negative,Technical Support
+TCK-01366,FYI: I want to modify the shipping address for order #ORD-68249.,Order,High,Neutral,Logistics
+TCK-03590,Need written confirmation of account closure and data removal. Looking forward to your prompt response.,Cancellation,Medium,Neutral,Customer Success
+TCK-01904,"Outstanding delivery service, package arrived in pristine condition!",Delivery,Low,Neutral,Logistics
+TCK-00596,"Dear Support, Unrecognized charge of $79.99 appeared on my bank statement today. Please resolve this as soon as possible.",Payment,Medium,Negative,Billing
+TCK-02110,"Urgent: Fantastic build quality and sleek design, highly recommend this product! Please advise on next steps.",Product,Low,Positive,Product Support
+TCK-01297,Order placement was effortless and checkout process was intuitive. Looking forward to your prompt response.,Order,Low,Positive,Logistics
+TCK-01822,Delivery executive was polite and delivered right on time!,Delivery,Low,Neutral,Logistics
+TCK-00873,Thank you for issuing the full refund without any hassle.,Refund,Low,Positive,Billing
+TCK-03733,What is your cancellation policy for annual membership contracts? Kindly check and revert back.,Cancellation,Low,Neutral,Customer Success
+TCK-02265,Received product with missing user manual and power adapter cable.,Product,Medium,Negative,Product Support
+TCK-02327,"Dear Support, Fantastic build quality and sleek design, highly recommend this product!",Product,Low,Positive,Product Support
+TCK-01549,Issue report: Items missing from my delivered package for order #ORD-22635.,Order,Urgent,Negative,Logistics
+TCK-03441,Query: Tried canceling via chat but bot kept looping without completing request. Please resolve this as soon as possible.,Cancellation,Medium,Negative,Customer Success
